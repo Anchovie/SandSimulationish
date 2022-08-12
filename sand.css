@@ -1,0 +1,17 @@
+body {
+    background-color: #8c8c8c;
+}
+
+p {
+    text-align: center;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: #444444;
+    font-size: 12pt;
+}
+canvas {
+   padding: 0;
+   margin: auto;
+   display: block;
+   width: 800px;
+   border: 3px solid black;
+}
